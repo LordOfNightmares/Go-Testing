@@ -1,8 +1,8 @@
 package posts
 
 import (
-	"github.com/LordOfNightmares/Golang-rest-api-Test/database/models"
-	"github.com/LordOfNightmares/Golang-rest-api-Test/lib/common"
+	"github.com/LordOfNightmares/Go-Testing/database/models"
+	"github.com/LordOfNightmares/Go-Testing/lib/common"
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
 )

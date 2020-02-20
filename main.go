@@ -1,12 +1,11 @@
 package main
 
 import (
-	"os"
-
 	"github.com/LordOfNightmares/Go-Testing/api"
 	"github.com/LordOfNightmares/Go-Testing/lib/middlewares"
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
+	"os"
 )
 
 func main() {

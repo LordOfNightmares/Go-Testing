@@ -1,3 +1,4 @@
+k
 ## gin-rest-api-sample
 Golang REST API sample with MariaDB integration using Gin and GORM. (This project IS NOT a starter kit, it is just an example project.)
 

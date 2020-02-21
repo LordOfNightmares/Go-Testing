@@ -18,6 +18,7 @@ func main() {
 	//// initializes database
 	//db, _ := database.Initialize()
 	//
+
 	port := os.Getenv("PORT")
 	app := gin.Default() // create gin app
 	//app.Use(database.Inject(db))
